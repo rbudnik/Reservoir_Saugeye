@@ -1,0 +1,17 @@
+analysis,variable,var,imp
+growth,S_DOY,h,1
+growth,S_DENS,g,0.17
+growth,S_LEN,f,0
+growth,BASS,e,0
+growth,CRAP,d,0.19
+growth,SAUG,c,0
+growth,SA,b,0.13
+growth,SD,a,0.15
+survival,S_DOY,h,1
+survival,S_DEN,g,1
+survival,S_LEN,f,0.3
+survival,BASS,e,1
+survival,CRAP,d,0
+survival,SAUG,c,0
+survival,SD,b,1
+survival,SA ,a,1
