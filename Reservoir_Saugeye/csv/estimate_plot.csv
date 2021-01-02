@@ -5,8 +5,8 @@ recruitment,S_LEN,d,-0.24806519,0.3792759,0.065605355,Not Significant
 recruitment,BASS,c,-1.37434668,-0.3796053,-0.87697599,Significant
 recruitment,SA,b,-1.43228705,-0.2738187,-0.853052875,Significant
 recruitment,SD,a,0.06395363,1.1193119,0.591632765,Significant
-growth,S_DOY,e,-0.10827537,-0.02875508,-0.068515225,Significant
-growth,S_DEN,d,-0.02328013,0.01744803,-0.00291605,Not Significant
-growth,CRAP,c,-0.0258012,0.01866042,-0.00357039,Not Significant
-growth,SA,b,-0.01463774,0.01758415,0.001473205,Not Significant
-growth,SD,a,-0.01668958,0.02139137,0.002350895,Not Significant
+growth,S_DOY,e,-0.10654059,-0.02892568,-0.067733135,Significant
+growth,S_DEN,d,-0.02431107,0.01763816,-0.003336455,Not Significant
+growth,CRAP,c,-0.02027484,0.01596817,-0.002153335,Not Significant
+growth,SAUG,b,-0.02119012,0.01670081,-0.002244655,Not Significant
+growth,SD,a,-0.01626524,0.02013301,0.001933885,Not Significant
