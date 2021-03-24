@@ -1,5 +1,5 @@
 # Set working directory
-setwd("C:/Users/richa/OneDrive/Desktop/SAE_Retrospective/NAJFM manuscript 2")
+setwd("C:/Users/richa/OneDrive/Desktop/Reservoir_Saugeye")
 
 # Load necessary packages
 library(performance)
@@ -18,7 +18,7 @@ loadfonts(device = "win")
 #######################################################################
 
 # Load data
-dat=read.csv("csv/estimate_plot2.csv")
+dat=read.csv("csv/estimate_plot.csv")
 
 data2<-dat[ which(dat$analysis == "recruitment"), ]
 
@@ -95,7 +95,7 @@ estimate_plots <- grid.arrange(arrangeGrob(estimate_plots, bottom = x.grob))
 
 # Save as tiff
 ggsave(
-  filename = "C:/Users/richa/OneDrive/Desktop/Figure 3_ver2.tiff",
+  filename = "Figure 3.tiff",
   plot = estimate_plots,
   height = 3,
   width = 6.5,
