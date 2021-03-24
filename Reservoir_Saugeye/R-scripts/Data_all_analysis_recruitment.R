@@ -1,8 +1,8 @@
 # Set working directory
-setwd("C:/Users/richa/OneDrive/Desktop/SAE_Retrospective/NAJFM manuscript 2")
+setwd("C:/Users/richa/OneDrive/Desktop/Reservoir_Saugeye")
 
 # Load data
-dat=read.csv("csv/Data_complete7.csv")
+dat=read.csv("csv/Data_complete.csv")
 
 # Load necessary packages
 library(lme4)
