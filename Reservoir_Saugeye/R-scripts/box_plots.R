@@ -1,8 +1,8 @@
 # Set working directory
-setwd("C:/Users/richa/OneDrive/Desktop/SAE_Retrospective/NAJFM manuscript 2")
+setwd("C:/Users/richa/OneDrive/Desktop/Reservoir_Saugeye")
 
 # Load data
-dat=read.csv("csv/Data_complete8.csv")
+dat=read.csv("csv/Data_complete.csv")
 
 # Load packages
 library(ggplot2)
@@ -249,7 +249,7 @@ box_plots <- plot_grid(growth_plot,
 
 # Save as tiff
 ggsave(
-  filename = "Figures/Figure 2_ver2.tiff",
+  filename = "Figure 2.tiff",
   plot = box_plots,
   height = 7.25,
   width = 6.53,
