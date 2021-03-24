@@ -1,0 +1,13 @@
+analysis,name,variable,low,high,mean,symbol
+recruitment,S_DOY,g,-0.9413753,0.08314588,-0.42911471,Not Significant
+recruitment,S_DEN,f,0.1069724,0.91873185,0.512852125,Significant
+recruitment,BASS,e,-0.2283061,0.31459347,0.043143685,Not Significant
+recruitment,CRAP,d,-0.2753717,0.20350084,-0.03593543,Not Significant
+recruitment,SAUG,c,-0.3012327,0.80021743,0.249492365,Not Significant
+recruitment,SD,b,-0.1901612,0.23494172,0.02239026,Not Significant
+recruitment,SPTEMP,a,-0.1547961,0.19239068,0.01879729,Not Significant
+growth,S_DOY,f,-0.09999289,-0.02637742,-0.063185155,Significant
+growth,S_DEN,e,-0.02674576,0.01813772,-0.00430402,Not Significant
+growth,SAUG,d,-0.02385249,0.01779856,-0.003026965,Not Significant
+growth,SD,c,-0.018968,0.02573211,0.003382055,Not Significant
+growth,SUTEMP,a,0.01640261,0.08453472,0.050468665,Significant
